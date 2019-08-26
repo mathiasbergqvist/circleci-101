@@ -1,0 +1,23 @@
+{
+  "name": "circleci-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasbergqvist/circleci-101.git"
+  },
+  "author": "Mathias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathiasbergqvist/circleci-101/issues"
+  },
+  "homepage": "https://github.com/mathiasbergqvist/circleci-101#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}

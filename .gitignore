@@ -1,0 +1,16 @@
+.idea
+.vscode
+.DS_Store
+node_modules
+yarn-error.log
+lerna-debug.log
+npm-error.log
+.env
+env.json
+server.cer
+server.key
+dist
+lib
+public
+coverage
+core/omni/api/**/*.ts
